@@ -22,13 +22,17 @@
 			]
 		},
 		{
+			"Name": "FieldSystemPlugin",
+			"Enabled": true
+		},
+		{
 			"Name": "MeshOpsPlugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/84e127de57ed4e12877b1337b4e25ad1"
 		},
 		{
-			"Name": "FieldSystemPlugin",
-			"Enabled": true
+			"Name": "MeshOps",
+			"Enabled": false
 		}
 	]
 }
