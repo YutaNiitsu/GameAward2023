@@ -76,3 +76,6 @@ DerivedDataCache/*
 #Contents
 Content/Main/Common/Mannequins/*
 Content/StarterContent/*
+
+#Plugins
+Plugins/*
